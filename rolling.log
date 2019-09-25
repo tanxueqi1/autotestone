@@ -1,0 +1,6 @@
+[framework] 2019-05-17 19:14:54,765 - com.autoframework.log4j.Log4jTest -8    [main] ERROR com.autoframework.log4j.Log4jTest  - 这是info
+[framework] 2019-05-17 19:15:40,548 - com.autoframework.log4j.Log4jTest -6    [main] ERROR com.autoframework.log4j.Log4jTest  - 这是error
+[framework] 2019-05-17 19:16:09,700 - com.autoframework.log4j.Log4jTest -5    [main] ERROR com.autoframework.log4j.Log4jTest  - 这是error
+[framework] 2019-05-17 19:25:32,003 - com.autoframework.log4j.Log4jTest -7    [main] ERROR com.autoframework.log4j.Log4jTest  - 这是error
+[framework] 2019-05-18 00:10:51,428 - com.autoframework.driver.SeleniumDriver -0    [main] ERROR com.autoframework.driver.SeleniumDriver  - 你传入的浏览器名称有误chromeq
+[framework] 2019-05-21 23:39:09,564 - com.autoframework.driver.SeleniumDriver -0    [main] ERROR com.autoframework.driver.SeleniumDriver  - 你传入的浏览器名称有误chromeq

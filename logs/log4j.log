@@ -1,0 +1,362 @@
+2019-05-17 19:14:54,757 DEBUG main [com.autoframework.log4j.Log4jTest]debug(line:35)这是info
+2019-05-17 19:14:54,765 INFO main [com.autoframework.log4j.Log4jTest]info(line:38)这是info
+2019-05-17 19:14:54,765 WARN main [com.autoframework.log4j.Log4jTest]warn(line:41)这是info
+2019-05-17 19:14:54,765 ERROR main [com.autoframework.log4j.Log4jTest]error(line:44)这是info
+2019-05-17 19:15:40,542 DEBUG main [com.autoframework.log4j.Log4jTest]debug(line:35)这是debug
+2019-05-17 19:15:40,547 INFO main [com.autoframework.log4j.Log4jTest]info(line:38)这是info
+2019-05-17 19:15:40,548 WARN main [com.autoframework.log4j.Log4jTest]warn(line:41)这是warn
+2019-05-17 19:15:40,548 ERROR main [com.autoframework.log4j.Log4jTest]error(line:44)这是error
+2019-05-17 19:16:09,695 DEBUG main [com.autoframework.log4j.Log4jTest]debug(line:35)这是debug
+2019-05-17 19:16:09,699 INFO main [com.autoframework.log4j.Log4jTest]info(line:38)这是info
+2019-05-17 19:16:09,700 WARN main [com.autoframework.log4j.Log4jTest]warn(line:41)这是warn
+2019-05-17 19:16:09,700 ERROR main [com.autoframework.log4j.Log4jTest]error(line:44)这是error
+2019-05-17 19:25:31,996 DEBUG main [com.autoframework.log4j.Log4jTest]debug(line:35)这是debug
+2019-05-17 19:25:32,002 INFO main [com.autoframework.log4j.Log4jTest]info(line:38)这是info
+2019-05-17 19:25:32,002 WARN main [com.autoframework.log4j.Log4jTest]warn(line:41)这是warn
+2019-05-17 19:25:32,003 ERROR main [com.autoframework.log4j.Log4jTest]error(line:44)这是error
+2019-05-17 19:34:43,326 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 19:34:51,652 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 19:35:35,560 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 19:35:41,443 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-05-17 19:35:41,805 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了selenium
+2019-05-17 19:35:44,943 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: su
+2019-05-17 19:37:04,399 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 19:39:19,106 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:41:17,203 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:41:20,796 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:42:04,332 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:51:54,919 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:51:58,657 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:52:42,430 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-17 23:53:26,099 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-05-18 00:00:25,607 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-18 00:07:38,326 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-18 00:08:21,971 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-18 00:10:51,428 ERROR main [com.autoframework.driver.SeleniumDriver]error(line:44)你传入的浏览器名称有误chromeq
+2019-05-19 17:55:07,903 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-19 17:55:11,611 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-19 17:55:15,873 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-19 17:55:20,558 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-05-19 17:55:20,908 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了selenium
+2019-05-19 17:55:24,044 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: su
+2019-05-19 22:35:48,537 INFO main [com.autoframework.tools.DateFormat]info(line:38)2019年05月19日 22:35:48
+2019-05-21 22:17:35,604 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 22:17:36,002 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-17-36
+2019-05-21 22:17:36,003 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-17-36
+2019-05-21 22:17:36,003 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-17-36
+2019-05-21 22:25:42,494 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 22:25:42,903 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-25-42
+2019-05-21 22:25:42,904 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 22:25:42,905 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-25-42
+2019-05-21 22:27:07,655 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 22:27:07,994 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 22:27:07,995 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 22:27:07,995 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-27-07
+2019-05-21 22:27:59,365 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 22:27:59,736 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 22:27:59,736 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 22:27:59,737 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 22-27-59
+2019-05-21 23:39:09,564 ERROR main [com.autoframework.driver.SeleniumDriver]error(line:44)你传入的浏览器名称有误chromeq
+2019-05-21 23:46:34,915 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:46:35,300 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:46:35,300 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:46:35,300 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-46-35
+2019-05-21 23:50:10,374 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:50:10,859 INFO main [com.autoframework.testng.TestResultListener]onTestSuccess(line:44)doubleClickTest Success
+2019-05-21 23:50:10,861 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)getText Start
+2019-05-21 23:50:13,989 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:50:14,824 INFO main [com.autoframework.testng.TestResultListener]onTestSuccess(line:44)getText Success
+2019-05-21 23:50:14,824 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)getTexts Start
+2019-05-21 23:50:17,981 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:50:18,892 INFO main [com.autoframework.testng.TestResultListener]onTestSuccess(line:44)getTexts Success
+2019-05-21 23:50:18,892 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)testClick Start
+2019-05-21 23:50:22,238 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-05-21 23:50:22,501 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了selenium
+2019-05-21 23:50:25,753 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: su
+2019-05-21 23:50:26,498 INFO main [com.autoframework.testng.TestResultListener]onTestSuccess(line:44)testClick Success
+2019-05-21 23:50:26,498 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:62)PassedTests = testClick
+2019-05-21 23:50:26,498 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:62)PassedTests = getText
+2019-05-21 23:50:26,498 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:62)PassedTests = getTexts
+2019-05-21 23:50:26,498 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:62)PassedTests = doubleClickTest
+2019-05-21 23:54:27,611 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:54:28,375 INFO main [com.autoframework.testng.TestResultListener]onTestSuccess(line:44)getText Success
+2019-05-21 23:54:28,375 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:62)PassedTests = getText
+2019-05-21 23:55:02,381 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:55:12,957 INFO main [com.autoframework.testng.TestngRetry]retry(line:34)Retry for [getText] on class [com.autoframework.action.ActionTest] Retry 1 times
+2019-05-21 23:55:13,337 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:13,337 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:13,337 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-55-13
+2019-05-21 23:55:13,353 INFO main [com.autoframework.testng.TestResultListener]onTestSkipped(line:38)getText Skipped
+2019-05-21 23:55:13,353 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)getText Start
+2019-05-21 23:55:16,403 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:55:26,833 INFO main [com.autoframework.testng.TestngRetry]retry(line:34)Retry for [getText] on class [com.autoframework.action.ActionTest] Retry 2 times
+2019-05-21 23:55:27,182 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:27,182 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:27,182 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-55-27
+2019-05-21 23:55:27,182 INFO main [com.autoframework.testng.TestResultListener]onTestSkipped(line:38)getText Skipped
+2019-05-21 23:55:27,182 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)getText Start
+2019-05-21 23:55:30,603 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:55:41,424 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:41,426 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:55:41,427 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-55-41
+2019-05-21 23:55:41,430 INFO main [com.autoframework.testng.TestResultListener]onTestFailure(line:30)getText Failure
+2019-05-21 23:55:41,432 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:69)skipTest = getText
+2019-05-21 23:55:41,432 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:69)skipTest = getText
+2019-05-21 23:55:41,432 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:83)failedTest = getText
+2019-05-21 23:55:41,432 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:106)Remove repeat Fail Test: getText
+2019-05-21 23:56:20,628 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:56:31,149 INFO main [com.autoframework.testng.TestngRetry]retry(line:34)Retry for [getText] on class [com.autoframework.action.ActionTest] Retry 1 times
+2019-05-21 23:56:31,487 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:56:31,487 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:56:31,487 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-56-31
+2019-05-21 23:56:31,487 INFO main [com.autoframework.testng.TestResultListener]onTestSkipped(line:38)getText Skipped
+2019-05-21 23:56:31,503 INFO main [com.autoframework.testng.TestResultListener]onTestStart(line:50)getText Start
+2019-05-21 23:56:34,334 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-05-21 23:56:45,119 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:56:45,119 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190521
+2019-05-21 23:56:45,119 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-05-21 23-56-45
+2019-05-21 23:56:45,119 INFO main [com.autoframework.testng.TestResultListener]onTestFailure(line:30)getText Failure
+2019-05-21 23:56:45,134 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:69)skipTest = getText
+2019-05-21 23:56:45,134 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:83)failedTest = getText
+2019-05-21 23:56:45,134 INFO main [com.autoframework.testng.TestResultListener]onFinish(line:106)Remove repeat Fail Test: getText
+2019-08-08 23:01:08,420 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-08-08 23:03:37,181 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-08-08 23:03:37,757 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了selenium
+2019-08-08 23:03:41,032 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: su
+2019-08-08 23:04:30,458 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://baidu.com
+2019-08-08 23:04:30,877 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了selenium
+2019-08-08 23:04:33,976 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: su
+2019-08-08 23:05:06,173 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-08 23:05:46,048 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-08 23:06:39,418 INFO main [com.autoframework.tools.DateFormat]info(line:38)2019年08月08日 23:06:39
+2019-08-08 23:13:09,606 INFO main [com.autoframework.tools.RandomNum]info(line:38)593
+2019-08-08 23:16:57,545 INFO main [com.autoframework.testng.TestResultListener]info(line:38)retrycount=2
+2019-08-08 23:16:57,549 INFO main [com.autoframework.testng.TestResultListener]info(line:38)sourceCodeDir=src
+2019-08-08 23:16:57,549 INFO main [com.autoframework.testng.TestResultListener]info(line:38)sourceCodeEncoding=UTF-8
+2019-08-08 23:16:57,614 INFO main [com.autoframework.testng.TestResultListener]info(line:38)getText Start
+2019-08-08 23:17:05,690 INFO main [com.autoframework.testng.TestResultListener]info(line:38)打开网站:https://www.baidu.com
+2019-08-08 23:17:06,476 INFO main [com.autoframework.testng.TestResultListener]info(line:38)getText Success
+2019-08-08 23:17:06,478 INFO main [com.autoframework.testng.TestResultListener]info(line:38)PassedTests = getText
+2019-08-08 23:20:24,101 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-08 23:20:25,047 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190808
+2019-08-08 23:20:25,047 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)20190808
+2019-08-08 23:20:25,048 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)2019-08-08 23-20-25
+2019-08-24 16:10:21,600 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-24 16:18:03,045 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-24 16:18:03,427 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了163邮箱
+2019-08-24 16:18:03,531 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.name: wd
+2019-08-24 16:18:30,717 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://www.baidu.com
+2019-08-24 16:18:30,981 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了163邮箱
+2019-08-24 16:21:43,603 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 16:23:52,621 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 16:23:52,775 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 16:27:17,184 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 16:27:17,313 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:33:14,755 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:33:15,055 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:37:56,930 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:37:57,062 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:40:59,378 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:40:59,621 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:42:32,445 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:42:33,628 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:43:44,542 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:43:44,802 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:43:46,080 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 17:44:37,656 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:44:37,955 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:44:38,227 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 17:56:05,738 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 17:56:06,045 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 17:56:06,763 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 17:56:06,907 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 17:56:07,071 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:06:30,967 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 18:06:33,422 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 18:06:33,685 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 18:06:33,846 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 18:06:33,985 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:27:56,483 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 18:27:56,832 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 18:27:57,823 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 18:27:57,972 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 18:27:58,115 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:32:23,140 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 18:32:23,396 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 18:32:23,707 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 18:32:23,907 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 18:32:24,058 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:32:36,033 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 18:51:02,107 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 18:51:02,326 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 18:51:02,605 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 18:51:02,789 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 18:51:03,688 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:51:13,362 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 18:56:44,802 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 18:56:44,977 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 18:56:45,216 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 18:56:46,464 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 18:56:46,585 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 18:56:52,493 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:04:52,376 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:04:52,501 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:04:52,747 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:04:52,897 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:04:53,016 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:05:02,759 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:05:03,253 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 19:05:03,457 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-ipt-input输入了我是王八蛋
+2019-08-24 19:09:49,745 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:09:49,942 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:09:50,196 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:09:50,342 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:09:51,334 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:10:12,044 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:10:12,554 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 19:10:12,700 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 19:12:35,861 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:12:36,025 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:12:36,274 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:12:36,418 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:12:36,552 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:12:40,994 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:12:41,267 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 19:12:41,427 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 19:19:02,665 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:19:02,795 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:19:03,041 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:19:03,189 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:19:09,540 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:19:14,409 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:19:14,737 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 19:19:14,890 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 19:19:15,099 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-scroll输入了真不是东西
+2019-08-24 19:21:17,665 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:21:17,826 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:21:18,765 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:21:18,919 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:21:19,054 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:21:45,702 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 19:21:45,862 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 19:21:46,125 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 19:21:46,268 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 19:21:50,635 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 19:21:50,777 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 19:21:51,308 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 19:21:51,446 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 19:21:51,626 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:04:49,524 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:04:50,933 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:04:51,192 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:04:51,353 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:04:51,502 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:04:57,530 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:04:58,085 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:04:58,258 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:05:06,033 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:05:59,658 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:05:59,786 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:06:00,851 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:06:01,000 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:06:01,134 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:06:22,673 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:06:23,167 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:06:23,309 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:06:23,668 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:19:28,423 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:19:29,710 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:19:29,961 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:19:30,103 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:19:30,232 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:19:45,305 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:19:45,586 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:19:45,723 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:22:40,603 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:22:40,969 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:22:41,340 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:22:41,518 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:22:41,697 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:22:47,398 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:22:47,901 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:22:48,079 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:22:48,331 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input
+2019-08-24 21:22:56,364 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:45:50,314 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:45:50,663 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:45:50,925 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:45:51,523 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:45:51,652 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:45:56,889 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:46:01,969 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:46:02,163 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:47:28,172 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:47:28,311 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:47:28,548 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:47:29,781 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:47:29,900 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:47:41,263 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:47:41,741 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:47:41,904 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:47:42,165 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-24 21:47:42,508 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:53:52,463 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:53:52,631 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:53:53,450 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:53:53,599 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:53:53,723 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:53:59,427 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:54:00,019 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:54:03,682 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是王八蛋
+2019-08-24 21:54:03,787 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-24 21:54:03,975 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了真不是东西
+2019-08-24 21:54:04,111 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="发送"]
+2019-08-24 21:55:12,935 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-24 21:55:13,121 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-24 21:55:13,431 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-24 21:55:13,618 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-24 21:55:13,784 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-24 21:55:18,283 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-24 21:55:18,802 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-24 21:55:18,943 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是中国人
+2019-08-24 21:55:19,167 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-24 21:55:19,513 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了加油。。。
+2019-08-24 21:55:25,301 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="发送"]
+2019-08-26 10:23:27,700 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-26 10:23:27,946 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-26 10:23:28,229 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-26 10:23:28,428 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-26 10:23:28,579 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-26 10:23:31,947 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-26 10:23:32,629 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-26 10:23:32,847 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是中国人
+2019-08-26 10:23:33,128 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-26 10:23:33,632 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了加油。。。
+2019-08-26 10:23:33,809 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="发送"]
+2019-08-26 10:24:09,019 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-26 10:24:09,157 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-26 10:24:09,419 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-26 10:24:09,571 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-26 10:24:09,703 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-26 10:24:19,554 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-26 10:24:20,185 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-26 10:24:20,364 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是中国人
+2019-08-26 10:24:20,506 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-26 10:24:21,077 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了加油。。。
+2019-08-26 10:24:21,395 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="发送"]
+2019-08-26 10:24:43,809 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-26 10:24:43,942 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-26 10:24:44,181 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-26 10:24:44,336 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-26 10:24:44,460 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-26 10:25:07,036 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)打开网站:https://mail.163.com
+2019-08-26 10:25:07,172 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[@id="lbNormal"]
+2019-08-26 10:25:07,428 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: email输入了tanxueqi1
+2019-08-26 10:25:07,570 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.name: password输入了lyh840115
+2019-08-26 10:25:07,716 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.id: dologin
+2019-08-26 10:25:10,826 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="写 信"]
+2019-08-26 10:25:11,319 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.className: nui-editableAddr-ipt输入了535223120@qq.com
+2019-08-26 10:25:11,457 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@aria-label="邮件主题输入框，请输入邮件主题"]/input输入了我是中国人
+2019-08-26 10:25:11,699 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: //*[@title="一次可发送2000张照片，600首MP3，一部高清电影"]/input输入了C:\Users\T\Desktop\UI自动化知识点\log4j\log4j.properties
+2019-08-26 10:25:11,883 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)在文本框为By.xpath: /html/body输入了加油。。。
+2019-08-26 10:25:12,167 INFO main [com.autoframework.driver.SeleniumDriver]info(line:38)点击:By.xpath: //*[text()="发送"]
